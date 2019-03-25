@@ -11,6 +11,7 @@ css: ["index.css"]
         <p id="post-date">
           <i class="material-icons">date_range</i>
           {{post.date | date: "%d/%m/%Y %H:%M"}}
+          {% if page.author %}, by {{page.author | capitalize}} {% endif %}
         </p>
         <p id="post-content">{{post.excerpt | remove: '<p>' | remove: '</p>'}}</p>
       </div>
