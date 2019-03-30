@@ -1,9 +1,8 @@
-
 ---
 layout: post
-title: "Belajar HTML dasar"
-date: 2019-03-25 13:27:13 +0800
-categories: Belajar Program
+title: "mengenal apa itu javascript"
+date: 2019-03-30 13:27:13 +0800
+categories: Javasript
 tags: HTML
 comments: 1
 author: firdaus siregar
