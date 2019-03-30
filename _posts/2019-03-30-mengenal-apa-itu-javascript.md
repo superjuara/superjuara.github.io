@@ -1,5 +1,13 @@
 
-
+---
+layout: post
+title: "Belajar HTML dasar"
+date: 2019-03-25 13:27:13 +0800
+categories: Belajar Program
+tags: HTML
+comments: 1
+author: firdaus siregar
+---
 
 
                         <div style="margin-bottom: 5px;font-size: 19px;line-height: 36px;color: rgba(0, 0, 0, 0.84);font-family: Roboto,serif;font-weight: 400">
