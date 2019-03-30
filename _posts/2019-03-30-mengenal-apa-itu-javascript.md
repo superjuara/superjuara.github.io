@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "mengenal apa itu javascript"
+title: "mengenal apa itu javascript?"
 date: 2019-03-30 13:27:13 +0800
 categories: Javasript
 tags: HTML
