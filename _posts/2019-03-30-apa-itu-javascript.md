@@ -61,7 +61,6 @@ Kemudian masukkan dan simpan kode berikut ini dengan extensi .html, contoh hal
 % highlight html linenos %
 <!DOCTYPE html> <html> 
 <head> <title>Hallo Dunia! - Belajar JavaScript Pertama</title> 
-
 <script> function halodunia() { var halo = document.getElementById("container"); halo.innerHTML+="<p> Belajar JavaScript di superjuara</p>"; } </script> </head> 
 <body> <h1>Belajar JavaScript</h1> <!-- klik fungsi hallo dunia() --> <button id="klik" onclick="halodunia()">Tekan Aku</button> <!-- menampilkan pesan Belajar JavaScript di superjuara --> <div id="container"></div> </body> </html>
 {% endhighlight %}
