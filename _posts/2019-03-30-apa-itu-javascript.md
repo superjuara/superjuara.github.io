@@ -66,10 +66,4 @@ Kemudian masukkan dan simpan kode berikut ini dengan extensi .html, contoh hal
 {% endhighlight %}
 
 Kemudia cara menjalankanya, klik file hallo.html dua kali, maka kurang lebih hasilnya kurang lebih seperti berikut ini:
-
-
 <img src="../gambar/hallo.png" width="50%">
-
-
-
-                 
